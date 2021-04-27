@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+
+
+   </head>
+
+  <link rel="stylesheet" href="styles.css">
+  
+   <body>
+
+     <h1>My Too Colorful CSS Example</h1>
+
+     <p>Main text uses an almost white color as foreground, greenish double border, and a background color blue with 50% transparency, that being over a "tomato" color body background color, becomes a quite purple background.</p>
+
+   </body>
+
+</html>

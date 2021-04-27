@@ -1,0 +1,12 @@
+
+body { background-color: tomato; }
+
+h1   { color: rgb(127,33,33); background-color: rgb(255,255,0);
+
+          border-style: solid; border-color: white; }
+
+p    { color: #F0F0F0;           background-color: rgba(0,0,200,0.5); 
+
+         border-style: double; border-color: #99FF99; }
+
+    

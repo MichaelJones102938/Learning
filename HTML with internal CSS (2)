@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1 {font-family:"Helvetica"; }
+      h2 {font-family:"times new roman"; font-style: italic; }
+      p {font-family:Georgia; }
+      .p1 {text-align:center; font-size:20px}
+      .p2 {text-align:right; font-size:0.5em}
+      .p3 {text-align:justify; font-size:3vw}
+    </style>
+  </head>
+  <body>
+    <h1>H1: Formatting (using Helvetica)</h1>
+    <h2>H2: Font Families (using italic Times New Roman)</h2>
+    <p>This is a paragraph, shown in the <strong>Georgia</strong> font.</p>
+    <h2>H2: Text Alignment and Font Size</h2>
+    
+    <p>Default alignment and size.</p>
+    
+    <p class ="p1">Centered and 20 pixels sized font.</p>
+    
+    <p class ="p2">Aligned to the right and .75 the normal size (.75em).</p>
+    <p class = "p3">Justified and 3% of the window size (3vw) (note that it changes the actual size as you increase or decrease the window width - try it).</p>
+  </body>
+  <html>

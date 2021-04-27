@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1 {font-family:arial; }
+      h2 {font-family:times new roman; }
+      p {font-family:Lucida Console; }
+      .pr {text-align:right;}
+      .pc {text-align:center;}
+    </style>
+  </head>
+  <body>
+    <h1>H1: Text Formatting (using Arial)</h1>
+    <h2>H2: Font Families (using Times New Roman)</h2>
+    <p>This is a paragraph, shown in the Lucida Console font.</p>
+    <h2>H2: Text Alignment</h2>
+    <p class ="pr">Now aligned to the right.</p>
+    <p>Now aligned to the left</p>
+    <p class = "pc">... and now centered.</p>
+  </body>
+  <html>
